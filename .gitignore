@@ -1,0 +1,4 @@
+node_modules
+.prettierrc
+index.js
+.DS_Store

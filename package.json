@@ -1,0 +1,19 @@
+{
+  "name": "compound-layer3-apr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "apr": "node apr.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@duneanalytics/client-sdk": "^0.2.0",
+    "axios": "^1.7.2",
+    "bn": "^1.0.5",
+    "bn.js": "^5.2.1",
+    "csv-writer": "^1.6.0"
+  }
+}
